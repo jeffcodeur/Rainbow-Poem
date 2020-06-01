@@ -6,5 +6,6 @@ Orange
 Green
 Blue
 Pink
+Yellow
 
 These are The Rainbow Colors.
